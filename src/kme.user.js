@@ -4,6 +4,7 @@
 // @version     0.1
 // @description Embed table of nodes.
 // @match       http://aubne-s-dvl01b.dev.mincom.com:8080/label/kitchen/
+// @match       http://aubne-s-dvl01b.ventyx.abb.com:8080/label/kitchen/
 // @require     http://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js
 // ==/UserScript==
 var header=$('h2').first()
